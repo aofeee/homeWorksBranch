@@ -1,6 +1,6 @@
 # NeuroStartUp
 
-![](https://www.google.com/search?q=neurostartup&rlz=1C1CHZN_ruRU935RU935&sxsrf=ALeKk03C67SGzJW1tyWGPnMBRJEhsVmoEA:1612984464951&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjO076wg-DuAhUyCRAIHVRhDR0Q_AUoA3oECAYQBQ&biw=1536&bih=722#imgrc=XvtgOXd-gg_KsM)
+![logo](https://camo.githubusercontent.com/ace14ee894d150192a7b05b12410738aa65528da742bbce69315a5f441320ea7/68747470733a2f2f692e696d6775722e636f6d2f495a4f525769492e706e67)
 
 *NeuroStartUp* — динамически развивающийся стартап, специализирующийся на поиске с использованием новейших технологий искусственного интеллекта.
 
